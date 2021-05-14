@@ -1,0 +1,105 @@
+
+h1{
+	color:cadetblue;
+	font-size: 50px;
+	font-family: inherit;
+	text-align:center;
+		  }
+header{
+	
+	font-size: 25px;
+	text-align: center;
+	font-family: inherit;
+	color: cornflowerblue;
+          }
+
+body{
+	background-image: url(img/marmol.jpg)
+          }
+
+
+p { color: darkslategrey;
+	font-size: 23px;
+	font-family: inherit;
+	text-align: justify; 
+	width: 1000px;
+	margin: auto;
+	   }
+
+h2{ 
+  color: cadetblue;
+  font-size: 25px;
+  font-family: sans-serif;
+  text-align: justify;
+   }
+
+h3{ 
+  color: brown;
+  font-size: 25px;
+  font-family: inherit;
+  text-align: justify;
+   }
+
+li{ 
+  color: darkslategrey;
+  font-size: 20px;
+  font-family: inherit;
+  text-align: justify;
+   }
+
+
+
+table {
+	
+	border-collapse: collapse;
+	border-bottom-color: black;
+	text-align: center;
+       }
+
+
+table th{
+	
+	text-align: center;
+	background-color: cornflowerblue; 
+	
+	
+    }
+
+section{ 
+	
+	width: 1000px;
+	margin: auto;
+	    }
+
+.s3{
+	 padding: 0px 0px 0px 30px;
+	 box-sizing: border-box;1000px;
+	
+         } 
+ 
+
+
+ 
+
+
+
+      
+	
+	
+	
+         
+	
+	
+	
+	
+	
+
+
+
+		
+
+
+ 
+ 
+  
+      
